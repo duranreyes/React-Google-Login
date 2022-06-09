@@ -24,7 +24,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## STEP 1  
 ## CREATE AUTHORIZATION CREDENTIAL 
-1= Go to the Credentials page ---
+1- Go to the Credentials page ---
 https://console.cloud.google.com/apis/credentials?project=nodal-listener-312615&folder=&organizationId=
 
 ## STEP 2 - Create a new project
